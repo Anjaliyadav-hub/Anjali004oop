@@ -29,8 +29,8 @@
     User space is where applications and non-essential programs run.
     
 <H3>.2.2 KERNEL SPACE:-</H3>
-    kernel space is reserved for the operating system's core components (the kernel) and essential functions.
-   ![image alt](https://github.com/Anjaliyadav-hub/Anjali004oop/blob/main/WhatsApp%20Image%202025-08-12%20at%207.46.50%20PM.jpeg?raw=true)
+    kernel space is reserved for the operating system's core components (the kernel) and essential functions
+    
 <H2>3.NETWORK:-</H2>
 <BR>3.1Local Area Network (LAN)</BR>
 <BR>3.2 Wide Area Network (WAN)</BR>
