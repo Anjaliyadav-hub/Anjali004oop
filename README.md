@@ -30,8 +30,7 @@
     
 <H3>.2.2 KERNEL SPACE:-</H3>
     kernel space is reserved for the operating system's core components (the kernel) and essential functions.
-    ![image alt](https://github.com/Anjaliyadav-hub/Anjali004oop/blob/44fc90894e1d67dc32ff0b71280aa9a05db2488f/WhatsApp%20Image%202025-08-12%20at%207.46.50%20PM.jpeg)
-
+   ![image alt](https://github.com/Anjaliyadav-hub/Anjali004oop/blob/main/WhatsApp%20Image%202025-08-12%20at%207.46.50%20PM.jpeg?raw=true)
 <H2>3.NETWORK:-</H2>
 <BR>3.1Local Area Network (LAN)</BR>
 <BR>3.2 Wide Area Network (WAN)</BR>
