@@ -1,0 +1,58 @@
+KEYWORDS:-
+1.Hardware
+2.software
+3.server
+4.computation
+5.RAM(random access memory)
+6.ROM(read only memory)
+7.Network
+8.Operating system
+9.Cloud computing
+10.AWS(Amozon web server)
+
+1.Computation :-
+ computation is the process of using a set of rules (an algorithm) to manipulate data and produce a result.
+ 1.1 CPU-central processing unit 
+ 1.2 GPU-graphic processing unit 
+ 1.3 DPU-data processing unit
+ 1.4 TPU-tensor processing unit
+ 1.5 APU accelerated processing unit
+# CHIP:-
+  As the name suggested is an entire system fabricated on a silicon chip.the main work of this chip is it integrades all the component on a single substrate .as its size reducing and increasing efficiency.
+
+2.OPERATING SYSTEM(OS):-
+  An operating system (OS) is essential system software that manages a computer's hardware and software resources, acting as an intermediary between the user and the computer.
+  The  most commonly used OS are:-
+  * WINDOWS
+  * MACos
+  * LINUX
+    {In an operating system, user space and kernel space are two distinct memory regions with different access privileges.}
+2.1 USER SPACE:-
+    User space is where applications and non-essential programs run.
+2.2 KERNEL SPACE:-
+    kernel space is reserved for the operating system's core components (the kernel) and essential functions.
+
+3.NETWORK:-
+3.1Local Area Network (LAN)
+3.2 Wide Area Network (WAN)
+3.3 Metropolitan Area network(MAN)
+ # Networks can be broadly categorized into private and public networks, with local networks often being a type of private network. Private networks offer controlled access and are typically used for specific groups or organizations, while public networks are open to anyone and offer broader connectivity
+  EXAMPLES OF PRIVATE NETWORK :-
+   a.Local Area Network (LAN)
+   b.Virtual Private Network (VPN)
+   c.Enterprise Private Network
+  EXAMPLE OF PUBLIC NETWORK:-
+   a.Metropolitan Area Network (MAN)
+   b.Wide Area Network (WAN)
+3.4 NIC(network interface card):-
+   A network interface card, also known as NIC or network interface controller, is typically a circuit board installed on the computer to connect to the network. It works as an indispensable component for the network connection of computers.
+
+ Open Source/ Closed Source:-
+   a.Open source software (OSS) is software where the source code is publicly available, allowing anyone to use, modify, and distribute it.
+   b.Closed-source software, also known as proprietary software, is software where the source code is not publicly available. Users typically acquire the right to use the software through a license.
+
+FRONTEND AND BACKEND:-
+  1.Frontend
+   Frontend refers to the client-side of a web application. It encompasses everything that users interact with directly in their web browsers.
+  2.Backend
+   Backend refers to the server-side of a web application. It involves everything that happens on the server and is responsible for managing and processing data.
