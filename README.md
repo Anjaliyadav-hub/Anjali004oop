@@ -1,4 +1,7 @@
-<H1>OOP NOTES:-</H1>
+<H1>
+  <BODY bgcolor=black text=purple>
+    OOP NOTES:-
+  </H1>
 
   <H2>#DESKTOP--</H2>
   
@@ -11,7 +14,7 @@
  <BR>1.4 TPU-tensor processing unit </BR>
 <BR> 1.5 APU accelerated processing unit </BR>
 <H2># CHIP:-</H2>
-  As the name suggested is an entire system fabricated on a silicon chip.the main work of this chip is it integrades all the component on a single substrate .as its size reducing and increasing efficiency.
+  <U>As the name suggested is an entire system fabricated on a silicon chip.the main work of this chip is it integrades all the component on a single substrate .as its size reducing and increasing efficiency.</U>
 
 <H2>2.OPERATING SYSTEM(OS):-</H2>
  <BR> An operating system (OS) is essential system software that manages a computer's hardware and software resources, acting as an intermediary between the user and the computer.</BR>
@@ -47,6 +50,19 @@
 <BR> <H3>3.4 NIC(network interface card):-</BR> </H3>
   <P>A network interface card, also known as NIC or network interface controller, is typically a circuit board installed on the computer to connect to the network. It works as an indispensable component for the network connection of computers.</P> 
 
- <H3>Open Source/ Closed Source:-</H3>
+ <H2>Open Source/ Closed Source:-</H2>
   <BR> a.Open source software (OSS) is software where the source code is publicly available, allowing anyone to use, modify, and distribute it.</BR>
   <BR> b.Closed-source software, also known as proprietary software, is software where the source code is not publicly available. Users typically acquire the right to use the software through a license.</BR>
+  
+<H2>FRONTEND AND BACKEND:-</H2>
+
+  <B>1.Frontend</B>
+  
+   Frontend refers to the client-side of a web application. It encompasses everything that users interact with directly in their web browsers.
+   
+  <B>2.Backend</B>
+  
+  <BR> Backend refers to the server-side of a web application. It involves everything that happens on the server and is responsible for managing and processing data.</BR>
+  
+
+  
